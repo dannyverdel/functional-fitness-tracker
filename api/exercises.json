@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "name": "Bench Press",
+        "unit": "KG||LBS",
+        "category": "Gym"
+    },
+    {
+        "id": 2,
+        "name": "Deadlift",
+        "unit": "KG||LBS",
+        "category": "Gym"
+    },
+    {
+        "id": 3,
+        "name": "Dumbell Shoulder Press",
+        "unit": "KG||LBS",
+        "category": "Gym"
+    },
+    {
+        "id": 4,
+        "name": "Power Clean",
+        "unit": "KG||LBS",
+        "category": "Gym"
+    },
+    {
+        "id": 5,
+        "name": "Squat",
+        "unit": "KG||LBS",
+        "category": "Gym"
+    },
+    {
+        "id": 6,
+        "name": "Running",
+        "unit": "KM||MI",
+        "category": "Outdoor"
+    },
+    {
+        "id": 7,
+        "name": "Walking",
+        "unit": "KM||MI",
+        "category": "Outdoor"
+    },
+    {
+        "id": 8,
+        "name": "Rucking",
+        "unit": "KM||MI",
+        "category": "Outdoor"
+    }
+]
